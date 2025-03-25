@@ -25,13 +25,13 @@ import {
 
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCck7mSMcRRHL6df3Z-i-l_afxPG6VJgLg",
-    authDomain: "rentalhub-b34e1.firebaseapp.com",
-    projectId: "rentalhub-b34e1",
-    storageBucket: "rentalhub-b34e1.appspot.com",
-    messagingSenderId: "1051651104094",
-    appId: "1:1051651104094:web:3d18b1bf33c854282b83cf",
-    measurementId: "G-Z8GJFGC1SB"
+    apiKey: "AIzaSyCBDj6lYkR0pxYXd2XiDWMwb6mwKApwrMM",
+    authDomain: "livora-b5049.firebaseapp.com",
+    projectId: "livora-b5049",
+    storageBucket: "livora-b5049.firebasestorage.app",
+    messagingSenderId: "321390631588",
+    appId: "1:321390631588:web:74acc2aafa4ad614506431",
+    measurementId: "G-QQ2SPGWW1X"
 };
 
 // Initialize Firebase
